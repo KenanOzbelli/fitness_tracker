@@ -7,4 +7,4 @@
 
 link: https://arcane-shore-02447.herokuapp.com/
 
-![alt image](./assets/img/)
+![alt image](./public/img/screenshot2.png)
